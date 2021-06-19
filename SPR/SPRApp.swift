@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// Entry Point
 @main
 struct SPRApp: App {
     var body: some Scene {
